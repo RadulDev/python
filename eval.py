@@ -1,0 +1,10 @@
+name=input('enter Name:')
+age=eval(input('enter Age:'))
+gender=(input('enter gender:'))
+height=eval(input('Enter Height:'))
+
+print('User Details are as follows:')
+print('name:',name)            
+print('age:',age)
+print('gender:',gender)
+print('height:',height)
