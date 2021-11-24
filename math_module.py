@@ -1,0 +1,15 @@
+import math
+
+print(math.ceil(10.26))
+print(math.floor(10.86))
+print(math.exp(1))
+print(math.log(2.718))
+print(math.log(8,2))
+print(math.sqrt(9))
+print(math.sin(3.14159))
+print(math.asin(1))
+print(math.cos(0))
+print(math.acos(1))
+print(math.tan(3.14/4))
+print(math.degrees(1.57))
+print(math.radians(89.9999))
