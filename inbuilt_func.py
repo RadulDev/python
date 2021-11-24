@@ -1,0 +1,6 @@
+print(abs(-2))
+print(abs(4))
+print(max(10,20,30,40))
+print(pow(2,3))
+print(round(10.34))
+print(round(10.86))
