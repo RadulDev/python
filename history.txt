@@ -1,0 +1,944 @@
+    1  job
+    2  sudo apt update
+    3  sudo apt install mysql-server
+    4  sudo systemctl status mysql
+    5  sudo mysql
+    6  sudo apt install dirmngr gnupg apt-transport-https ca-certificates software-properties-common
+    7  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+    8  sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/'
+    9  sudo apt install r-base
+   10  R --version
+   11  sudo apt install postgresql postgresql-contrib
+   12  sudo -u postgres psql -c "SELECT version();"
+   13  sudo su - postgres
+   14  psql
+   15  sudo su - postgres
+   16  gparted
+   17  sudo apt install gparted
+   18  partition
+   19  exit
+   20  cat >> pgm.r
+   21  ls
+   22  ls -l 
+   23  cat pgm.r
+   24  vi pgm.r
+   25  cat pgm.r
+   26  vi pgm.r
+   27  sudo apt update
+   28  firefox
+   29  sudo apt update firefox
+   30  sudo apt instal firefox
+   31  sudo apt install firefox
+   32  jobs
+   33  ps aux
+   34  ps less
+   35  ps l
+   36  su - postgres
+   37  sudo - postgres
+   38  sudo su - postgres
+   39  sudo apt update
+   40  sudo su - postgres
+   41  postgres -v
+   42  psql -v
+   43  psql -version
+   44  psql
+   45  sudo su - postgres
+   46  C:\>cd C:\Program Filesls
+   47  list
+   48  ls-l
+   49  C:\>cd C:\Program Files\PostgreSQL\12\bin
+   50  ls
+   51  rm pgm.r
+   52  ls
+   53  cd  Desktop/
+   54  ls
+   55  ls -l
+   56  cd ..
+   57  cd Downloads/
+   58  ls
+   59  cd ..
+   60  cd Public/
+   61  ls
+   62  sudo ls
+   63  ls
+   64  cd ..
+   65  ls
+   66  root
+   67  ls -u
+   68  ls -a
+   69  cd .
+   70  pwd
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd bin
+   76  ls
+   77  cd psql
+   78  grep ps*
+   79  grep psql
+   80  find psql
+   81  uninstall firefox;
+   82  rn -r firefox;
+   83  rm -r firefox;
+   84  grep firefox
+   85  mysql
+   86  eit
+   87  exit
+   88  sudo mysql
+   89  ipconfig
+   90  ipconf
+   91  ping 8.8.8.8.
+   92  ping 8.8.8.8
+   93  psql
+   94  psqlr --version
+   95  r --version
+   96  r
+   97  R
+   98  sudo mysql
+   99  clear
+  100  sudo mysql
+  101  CLEAR
+  102  clear
+  103  use univ;
+  104  sudo mysql
+  105  clear
+  106  create database universal;
+  107  sudo mysql
+  108  gedit first.R
+  109  ls
+  110  Rscript first.R
+  111  gedit try.R
+  112  ls
+  113  Rscript try.R
+  114  gedit pop.R
+  115  Rscript pop.R
+  116  firefox
+  117  brave
+  118  sudo su - postgres
+  119  ls
+  120  cd Downloads/
+  121  ls
+  122  gedit family.txt
+  123  gedit habitat.txt
+  124  gedit names.txt
+  125  gedit plant_part.txt
+  126  gedit uses.txt
+  127  ls
+  128  cd Downloads/
+  129  ls
+  130  pwd
+  131  PING 8.8.8.8
+  132  ping 8.8.8.8
+  133  sudo mysql
+  134  gedit sample.txt
+  135  sudp mysql;
+  136  sudo mysql;
+  137  sudo mysql
+  138  ls
+  139  cd Downloads/
+  140  ls
+  141  pwd
+  142  sudo mysql
+  143  cal
+  144  cal +
+  145  cal +1
+  146  year
+  147  cal
+  148  exit
+  149  exit*4
+  150  exit
+  151  rxit
+  152  exit
+  153  gedit
+  154  Rscript matrix.R
+  155  gedit matrix.R 
+  156  Rscript matrix.R
+  157  gedit matrix.R 
+  158  Rscript matrix.R
+  159  gedit matrix.R 
+  160  gedit bar.R 
+  161  Rscript bar.R
+  162  gedit bar.R 
+  163  Rscript bar.R
+  164  gedit bar2.R 
+  165  Rscript bar2.R
+  166  gedit bar.R 
+  167  Rscript bar.R
+  168  gedit bar.R 
+  169  gedit bar3.R 
+  170  Rscript bar3.R 
+  171  SUDO MYSQL;
+  172  sudo mysql;
+  173  R 
+  174  sudo su - postgres
+  175  sudo mysql
+  176  sudo su - postgres
+  177  clear
+  178  sudo su - postgres
+  179  ls
+  180  vi add.sh
+  181  vim
+  182  vi add.sh
+  183  bash add.sh
+  184  vi add.sh
+  185  cat >> add.sh
+  186  cat add.sh
+  187  cat > add.sh
+  188  cat add.sh
+  189  ./add.sh
+  190  bash add.sh
+  191  cat > add.sh
+  192  cat add.sh
+  193  ./add.sh
+  194  bash add.sh
+  195  gedit add.sh
+  196  bash add.sh
+  197  gedit add.sh
+  198  bash add.sh
+  199  gedit add.sh
+  200  bash add.sh
+  201  gedit add.sh
+  202  bash add.sh
+  203  sudo si - postgres
+  204  sudo su - postgres
+  205  gedit ion.R
+  206  Rscript ion.R
+  207  gedit key.R
+  208  Rscript string_manipulation.R 
+  209  Rscript calculator.R 
+  210  pwd
+  211  source (/home/user/Downloads
+  212  source (/home/user/Downloads/calculator.R)
+  213  source ("/home/user/Downloads/calculator.R")
+  214  source ("~/home/user/Downloads/calculator.R")
+  215  source ("calculator.R")
+  216  source ("/calculator.R")
+  217  source(here::here('calculator.R'))
+  218  Rscript statistics.R 
+  219  Rscript ifElse.R 
+  220  lks
+  221  ls
+  222  sudo su - postgres
+  223  R
+  224  gedit while.R
+  225  r
+  226  R
+  227  Rscript while.R
+  228  5
+  229  Rscript while.R'
+  230  5
+  231  Rscript while.R
+  232  gedit n.R
+  233  gedit whileloop.R
+  234  Rscript whileloop.R
+  235  6
+  236  Rscript whileloop.R 6
+  237  Rscript whileloop.R
+  238  R
+  239  gedit pie.R
+  240  Rscript pie.R
+  241  gedit plot2.R
+  242  pwd
+  243  ls
+  244  gedit pie.R
+  245  cat city.png
+  246  ls
+  247  cd Downloads/
+  248  Rscript fibonacci>r
+  249  Rscript fibonacci.R
+  250  gedit whileloop.R
+  251  pwd
+  252  ls
+  253  cd Downloads/
+  254  ls
+  255  Rscript Calculator.R
+  256  Rscript calculator.R
+  257  pwd
+  258  ls
+  259  gedit mysql.txt
+  260  pwd
+  261  source
+  262  source /home/user/calculator.R
+  263  ls
+  264  source /home/user/ion.R
+  265  exit
+  266  sudo su - p
+  267  sudo su - postgres
+  268  clear
+  269  sudo su - postgres
+  270  ls
+  271  sudo su - postgres
+  272  sudo su - postgres es
+  273  sudo su - postgres
+  274  ps
+  275  sudo su - postgres
+  276  sudo apt update
+  277  sudo su - postgres
+  278  ls
+  279  cat whileloop.R 
+  280  R
+  281  touch quries.txt
+  282  sudo su - postgres
+  283  touch covid_vaccine.txt
+  284  sudo mysql
+  285  mysqldump covid_vaccine > covid_vaccine.sql
+  286  ls
+  287  sudo mysqldump covid_vaccine > covid_vaccine.sql
+  288  ls
+  289  gedit studentDetails.html
+  290  sudo su - postgres
+  291  vi shell scripts.sh
+  292  bash shell scripts.sh
+  293  vi shell scripts.sh
+  294  bash shell scripts.sh
+  295  vi shell scripts.sh
+  296  gedit shell.sh
+  297  bash shell.sh
+  298  gedit shell.sh
+  299  bash shell.sh
+  300  gedit shell.sh
+  301  bash shell.sh
+  302  gedit shell.sg
+  303  gedit shell.sh
+  304  bash shell.sh
+  305  gedit shell.sh
+  306  bash shell.sh
+  307  gedit shell.sh
+  308  bash shell.sh
+  309  gedit shell.sh
+  310  vi prgm2.sh
+  311  gedit prgm2.sh
+  312  bash prgm2.sh
+  313  gedit prgm2.sh
+  314  bash prgm2.sh
+  315  gedit prgm2.sh
+  316  bash prgm2.sh
+  317  gedit prgm2.sh
+  318  bash prgm2.sh
+  319  gedit prgm2.sh
+  320  bash prgm2.sh
+  321  gedit prgm2.sh
+  322  bash prgm2.sh
+  323  gedit prgm2.sh
+  324  bash prgm2.sh
+  325  gedit prgm2.sh
+  326  bash prgm2.sh
+  327  gedit prgm2.sh
+  328  bash prgm2.sh
+  329  gedit prgm2.sh
+  330  gedit prgm3.sh
+  331  bash prgm3.sh
+  332  gedit prgm3.sh
+  333  bash prgm3.sh
+  334  gedit prgm3.sh
+  335  bash prgm3.sh
+  336  gedit prgm3.sh
+  337  bash prgm3.sh
+  338  gedit prgm3.sh
+  339  bash prgm3.sh
+  340  gedit prgm3.sh
+  341  bash prgm3.sh
+  342  gedit prgm3.sh
+  343  bash prgm3.sh
+  344  gedit prgm3.sh
+  345  bash prgm3.sh
+  346  gedit prgrm3.sh
+  347  gedit prgm3.sh
+  348  bash prgm3.sh
+  349  gedit prgm3.sh
+  350  bash prgm3.sh
+  351  gedit prgm3.sh
+  352  gedit prgm4.sh
+  353  bash prgm4.sh
+  354  gedit prgm4.sh
+  355  bash prgm4.sh
+  356  gedit prgm4.sh
+  357  bash prgm4.sh
+  358  gedit prgm4.sh
+  359  bash prgm4.sh
+  360  gedit prgm4.sh
+  361  bash prgm4.sh
+  362  gedit prgm4.sh
+  363  bash prgm4.sh
+  364  gedit prgm4.sh
+  365  bash prgm4.sh
+  366  gedit prgm4.sh
+  367  bash prgm4.sh
+  368  gedit prgm4.sh
+  369  bash prgm4.sh
+  370  gedit prgm4.sh
+  371  bash prgm4.sh
+  372  gedit prgm4.sh
+  373  bash prgm4.sh
+  374  gedit prgm4.sh
+  375  bash prgm4.sh
+  376  gedit prgm4.sh
+  377  bash prgm4.sh
+  378  gedit prgm4.sh
+  379  bash prgm4.sh
+  380  gedit prgm4.sh
+  381  bash prgm4.sh
+  382  gedit prgm4.sh
+  383  bash prgm4.sh
+  384  gedit prgm4.sh
+  385  bash prgm4.sh
+  386  gedit prgm4.sh
+  387  bash prgm4.sh
+  388  gedit prgm4.sh
+  389  bash prgm4.sh
+  390  gedit prgm4.sh
+  391  bash prgm4.sh
+  392  gedit prgm4.sh
+  393  bash prgm4.sh
+  394  gedit trial.sh
+  395  bash prgm4.sh
+  396  gedit trial.sh
+  397  bash prgm4.sh
+  398  gedit prgm5.sh
+  399  bash prgm5.sh
+  400  gedit prgm5.sh
+  401  bash prgm5.sh
+  402  gedit prgm5.sh
+  403  bash prgm5.sh
+  404  gedit prgm6.sh
+  405  bash prgm5.sh
+  406  bash prgm6.sh
+  407  sudo mysql
+  408  gedit prgm1.R
+  409  Rscript prgm1.R
+  410  gedit R1.R
+  411  Rscript  R1.R
+  412  Rscript R1.R
+  413  gedit R1.R
+  414  Rscript R1.R
+  415  gedit R1.R
+  416  ls 
+  417  cd Downloads/
+  418  ls
+  419  source9
+  420  source(calculator.R)
+  421  source(./calculator.R)
+  422  R
+  423  gedit vectorlength.R
+  424  Rscript vectorlength.R
+  425  gedit vectorlength.R
+  426  gedit list.R
+  427  Rscript list.R
+  428  gedit list.R
+  429  gedit dataframes.R
+  430  Rscript dataframes.R
+  431  gedit dataframes.R
+  432  Rscript dataframes.R
+  433  gedit matrix.R
+  434  Rscript matrix.R
+  435  gedit matrix.R
+  436  gedit table1.R
+  437  Rscript table1.R
+  438  gedit table1.R
+  439  Rscript table1.R
+  440  gedit table1.R
+  441  Rscript table1.R
+  442  gedit table1.R
+  443  Rscript table1.R
+  444  gedit table2.R
+  445  Rscript table2.R
+  446  gedit table2.R
+  447  Rscript table2.R
+  448  gedit table2.R
+  449  Rscript table2.R
+  450  gedit table2.R
+  451  Rscript table2.R
+  452  gedit table2.R
+  453  Rscript table2.R
+  454  gedit table2.R
+  455  Rscript table2.R
+  456  gedit table2.R
+  457  Rscript table2.R
+  458  gedit table2.R
+  459  Rscript table2.R
+  460  gedit table2.R
+  461  Rscript table2.R
+  462  gedit table2.R
+  463  Rscript table2.R
+  464  gedit table2.R
+  465  Rscript table2.R
+  466  gedit table2.R
+  467  Rscript table2.R
+  468  gedit table2.R
+  469  Rscript table2.R
+  470  gedit table2.R
+  471  Rscript table2.R
+  472  gedit table2.R
+  473  Rscript table2.R
+  474  gedit table2.R
+  475  Rscript table2.R
+  476  gedit table2.R
+  477  Rscript table2.R
+  478  gedit table2.R
+  479  Rscript table2.R
+  480  gedit table2.R
+  481  Rscript table2.R
+  482  gedit table2.R
+  483  gedit createfile.R
+  484  Rscript createfile.R
+  485  gedit createfile.R
+  486  Rscript createfile.R
+  487  gedit createfile.R
+  488  Rscript createfile.R
+  489  gedit createfile.R
+  490  gedit readfile.R
+  491  Rscript readfile.R
+  492  gedit readfile.R
+  493  Rscript readfile.R
+  494  gedit plot.R
+  495  Rscript plot.R
+  496  gedit for.R
+  497  gedit while.R
+  498  gedit whileloop.R
+  499  gedit while.R
+  500  gedit for.R
+  501  ls
+  502  touch vectored.R
+  503  gedit vectored.R 
+  504  R
+  505  pwd
+  506  R
+  507  ping 8.8.8.8
+  508  sudo apt -y upgrade
+  509  python3 -V
+  510  puthon3
+  511  python3
+  512  $ sudo apt-get install -y pymol
+  513  pymol
+  514  ls
+  515  ls-r
+  516  clear
+  517  ls
+  518  ls -r
+  519  ls -R
+  520  clear
+  521  ls
+  522  ls-R
+  523  clear
+  524  ls
+  525  ls -R
+  526  ls a
+  527  clear
+  528  ls 
+  529  ls -R
+  530  ls -a
+  531  ls -l
+  532  cd
+  533  cd..
+  534  cd ..
+  535  .cd
+  536  cd/
+  537  cd -
+  538  pwd
+  539  cd downloads
+  540  cd Downloads
+  541  pwd
+  542  echo vandeh
+  543  echo abhinand
+  544  man
+  545  man man
+  546  history
+  547  cd/
+  548  cd ..
+  549  pwd
+  550  ls
+  551  home
+  552  clear
+  553  cd Documents
+  554  cd Downloads
+  555  cd ~
+  556  cd home
+  557  cd Home
+  558  cd Downloads
+  559  clear
+  560  cd ..
+  561  cd..
+  562  cd ..
+  563  mkdir
+  564  cd ~
+  565  mkdir vandeh
+  566  ls
+  567  cd ~
+  568  mkdir ABHINAND 
+  569  ls
+  570  cd ABHINAND
+  571  cat
+  572  cat > myfile
+  573  cd ABHINAND
+  574  cat > myfiles
+  575  ls
+  576  cat > myfiles
+  577  cd ..
+  578  cd vandeh
+  579  cat > Thalassery
+  580  cd myfiles
+  581  Thalssery
+  582  cd Thalassery
+  583  gedit myfiles
+  584  grep myfiles
+  585  cd ..
+  586  cd ABHINAND
+  587  myfiles
+  588  grep myfiles
+  589  cd ..
+  590  man
+  591  man man
+  592  man -k
+  593  man -l
+  594  man man
+  595  history
+  596  clear
+  597  cd ..
+  598  cd ~
+  599  cd ABHINAND
+  600  ls
+  601  echo myfiles
+  602  cd ABHINAND
+  603  grep myfiles
+  604  myfiles
+  605  history
+  606  cal
+  607  host
+  608  diff vandeh ABHINAND
+  609  cd ..
+  610  rm vandeh
+  611  cd ABHINAND
+  612  rm myfiles
+  613  rm myfile
+  614  cd ..
+  615  cd vandeh
+  616  rm myfiles
+  617  rm Thalassery
+  618  rm -r
+  619  cd ..
+  620  rm -r vandeh
+  621  rm -r ABHINAND
+  622  df
+  623  mkdr Vandeh
+  624  mkdir Vandeh
+  625  cd Vandeh
+  626  cat myfiles
+  627  cat > myfiles
+  628  cat myfiles
+  629  wc -w
+  630  wc -w myfiles
+  631  wc -l myfiles
+  632  wc -c
+  633  wc -c myfiles
+  634  wc -m myfiles
+  635  wc -L myfiles
+  636  rm myfiles
+  637  cd ..
+  638  rm Vandeh
+  639  rm -r Vandeh
+  640  clear
+  641  cd ..
+  642  cd ~
+  643  mkdir ABHINAND V
+  644  cd ABHINAND V
+  645  cd ABHINANDV
+  646  cd ABHINAND
+  647  cd ..
+  648  rm -r ABHINAND
+  649  exit
+  650  sudo mysql
+  651  R
+  652  gedit pgm.R
+  653  pwd
+  654  gedit table.html
+  655  pwd
+  656  gedit table.html
+  657  gedit calculator.R
+  658  gedit calculator2.R
+  659  gedit file1.R
+  660  R script file1.R
+  661  gedit file1.R
+  662  R script file1.R
+  663  R script fi.R
+  664  gedit fi.R
+  665  R script fi.R
+  666  gedit pgm1.py
+  667  python3 pgm1.py
+  668  gedit pgm1.py
+  669  python3 pgm1.py
+  670  sudo apt install git
+  671  git --version
+  672  ls
+  673  python
+  674  python3
+  675  cd ..
+  676  ls
+  677  cat > token.txt
+  678  cat token.txt
+  679  git --v
+  680  git --version
+  681  git config --global user.name "RadulDev"
+  682  git config --global user.email "rrdevattract@gmail.com"
+  683  git config --list
+  684  git status
+  685  ls
+  686  mkdir python
+  687  ls
+  688  cd python/
+  689  git clone https://github.com/RadulDev/python.git
+  690  ls
+  691  cd python/
+  692  ls
+  693  touch pythonPgm.txt
+  694  ls
+  695  git add pythonPgm.txt 
+  696  git commit -m "trial commit"
+  697  git push
+  698  git push -u origin
+  699  cat sum.py
+  700  cat > sum.py
+  701  python3 sum.py
+  702  cat > maxNum.py
+  703  python3 maxNum.py
+  704  gedit maxNum.py
+  705  python3 maxNum.py
+  706  gedit factorial.py
+  707  gedit calculator.py
+  708  python3 calculator.py
+  709  gedit calculator.py
+  710  python3 calculator.py
+  711  gedit calculator.py
+  712  python3 calculator.py
+  713  gedit calculator.py
+  714  python3 calculator.py
+  715  gedit calculator.py
+  716  python3 calculator.py
+  717  gedit calculator.py
+  718  python3 calculator.py
+  719  gedit calculator.py
+  720  python3 swap.py
+  721  python3 int_input.py
+  722  python3 sum1.py
+  723  python3 eval.py
+  724  python3 rect.py
+  725  python3 CIR.py
+  726  python3 cir.py
+  727  python3 format.py
+  728  python3 eval.py
+  729  python3 calculator.py
+  730  cd python/
+  731  python3 calculator.py
+  732  gedit calculator.py
+  733  python3 calculator.py
+  734  cd ~
+  735  ls
+  736  cd Downloads/
+  737  ls
+  738  sudo dpkg -i code_1.62.2-1636665017_amd64.deb 
+  739  ./
+  740  ./code
+  741  ./c
+  742  code .
+  743  cd ..
+  744  code .
+  745  ls
+  746  cd python/
+  747  code .
+  748  cd ~
+  749  cd Downloads/
+  750  ls
+  751  sudo dpkg -i autodocksuite-4.2.6-x86_64Linux2.tar
+  752  sudo tar xv autodocksuite-4.2.6-x86_64Linux2.tar
+  753  sudo tar xvf autodocksuite-4.2.6-x86_64Linux2.tar
+  754  ls
+  755  cd x86_64Linux2/
+  756  ls
+  757  sudo apt install autodock4
+  758  cd ~
+  759  sudo apt-get update
+  760  wget
+  761  code .
+  762  python3 list.py0
+  763  python3 dict.py
+  764  python3 func.py
+  765  python3 float.py
+  766  python3 int_format.py
+  767  python3 string_format.py
+  768  python3 percentage_format.py
+  769  python3 inbuilt_func.py
+  770  python3 math_module.py
+  771  python3 float.py
+  772  python3 int_format.py
+  773  python3 string_format.py
+  774  python3 percentage_format.py
+  775  python3 inbuilt_func.py
+  776  ping 8.8.8.8
+  777  is
+  778  ls
+  779  ls-R
+  780  ls -R
+  781  clear
+  782  ls
+  783  ls-R
+  784  ls -R
+  785  ls
+  786  ls -R
+  787  ls -a
+  788  ls -l
+  789  cd
+  790  cd Downloads
+  791  cd
+  792  cd Downloads
+  793  cd ..
+  794  cd -
+  795  clear -
+  796  clear
+  797  cd
+  798  clear
+  799  pwd
+  800  cd Downloads
+  801  pwd
+  802  clear
+  803  cd
+  804  clear
+  805  mv
+  806  mv Downloads
+  807  clear
+  808  mv -Downloads
+  809  mv -
+  810  clear
+  811  mkdir
+  812  mkdir -
+  813  mkdir -ABHINAND
+  814  claear
+  815  clear
+  816  mkdir ABHI
+  817  rmdir ABHI
+  818  cat >ABHI
+  819  cat ABHI
+  820  cat >ANJALA
+  821  cat ANJALA
+  822  cat ABHI ANJALA > MSc Computation 2021-2023
+  823  cat ABHI ANJALA > MScComputational
+  824  cat MScComputational
+  825  cat ABHI ANJALA > MScComputational
+  826  clear
+  827  rmdir MScComputational
+  828  rm MScComputational
+  829  echo MY LIFE IS MY MESSAGE
+  830  wc -w ANJALA
+  831  wc -l
+  832  wc -l ANJALA
+  833  wc -c ANJALA
+  834  wc -m ANJALA
+  835  wc -L ANJALA
+  836  history
+  837  cat ABHI ANJALA > MScComputational
+  838  date
+  839  cal
+  840  host
+  841  df
+  842  diff
+  843  diff 
+  844  python3 dice.py
+  845  python3
+  846  apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+  847  sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6
+  848  sudo apt update
+  849  sudo apt install python3.9
+  850  sha256sum /path/filename
+  851  cd Downloads/
+  852  ls
+  853  bash Anaconda3-2021.11-Linux-x86_64.sh 
+  854  source ~/.bashrc
+  855  anaconda
+  856  anaconda -h
+  857  whoami
+  858  notebook
+  859  conda list
+  860  python
+  861  anaconda-navigator
+  862  rm -rf ~/anaconda3
+  863  conda list
+  864  anaconda-navigator
+  865  cd home/user/anaconda3/bin
+  866  cd home/user/anaconda3
+  867  cd home/user/
+  868  ls
+  869  pymol
+  870  sudo mysql
+  871  clear
+  872  sudo mysql
+  873  clear
+  874  sudo mysql
+  875  clear
+  876  python3 guessGame.py 
+  877  python3 natural_num.py 
+  878  python3 guessGame.py 
+  879  python3 natural_num.py 
+  880  python3 100nat_num.py 
+  881  python3 factorial.py 
+  882  bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh
+  883  bash ~/Downloads/Anaconda3-2021.11-Linux-x86_64.sh 
+  884  anaconda
+  885  anaconda3
+  886  anaconda-
+  887  anaconda-navigator
+  888  conda config --set auto_activate_base false
+  889  anaconda-navigator
+  890  conda config --set auto_activate_base true
+  891  gedit seq.fasta
+  892  anaconda-navigator
+  893  pip install biopython
+  894  pymol
+  895  python3
+  896  anaconda-navigator
+  897  python
+  898  pymol
+  899  gedit pyth1
+  900  gedit pyth1.py
+  901  pyth1.py
+  902  gedit pyth1.py
+  903  python3 pyth1.py
+  904  gedit pyth1.py
+  905  python3 pyth1.py
+  906  gedit pyth1.py
+  907  python3 pyth1.py
+  908  gedit pyth1.py
+  909  python3 pyth1.py
+  910  cat >ABHINAND
+  911  mkdir ABHINAND
+  912  mkdir ATHULYA
+  913  cat >html 1
+  914  cat >html
+  915  python3 disp_num.py 
+  916  python3 guessGame.py 
+  917  python3 reevNum.py 
+  918  python3 fact_add.py 
+  919  python3 fib.py 
+  920  python3 fib_while.py 
+  921  sudo apt-get update
+  922  sudo apt-get update code
+  923  sudo apt-get update code.
+  924  python3 isalnum.py 
+  925  python3 countVowels.py 
+  926  python3 sets.py 
+  927  python3 fib.p
+  928  python3 fib_while.py 
+  929  python3 fact_add.py 
+  930  python3 cont_sum.py 
+  931  python3 disp_num.py 
+  932  python3 reevNum.py 
+  933  python3 sets.py 
+  934  python3 fact_add.py 
+  935  python3 disp_num.py 
+  936  python3 factorial_addition.py 
+  937  python3 func_mul_table.py 
+  938  python3 nucl_count.py 
+  939  code .
+  940  ls
+  941  cd python/python/
+  942  code .
+  943  anaconda-navigator
+  944  history > history.txt
